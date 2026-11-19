@@ -1,5 +1,4 @@
-// URL del backend desplegado en Render. CAMBIA SOLO ESTA LINEA tras desplegar el backend.
-const URL_PRODUCCION = 'https://mikhuy-backend.onrender.com';
+const URL_PRODUCCION = 'https://mikhuy-anu8.onrender.com';
 
 const esLocal =
   typeof window !== 'undefined' &&
